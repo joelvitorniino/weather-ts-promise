@@ -1,8 +1,8 @@
 {
-  "name": "template-app-ts",
+  "name": "weather-ts-promise",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/joelvitorniino/template-app-ts.git",
+  "repository": "https://github.com/joelvitorniino/weather-ts-promise.git",
   "author": "joelvitorniino <joelprofessor13@gmail.com>",
   "license": "MIT",
   "scripts": {
