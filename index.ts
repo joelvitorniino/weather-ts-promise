@@ -1,8 +1,8 @@
 import axios from "axios";
-import { serviceWeather } from "../config/config";
-import { IWttr } from "../interfaces/IWttr";
+import { serviceWeather } from "./src/app/config/config";
+import { IWttr } from "./src/app/interfaces/IWttr";
 
-class WeatherService {
+export class WeatherService {
     weatherForecast(city: string, language: string): Promise<IWttr> {
         return new Promise(async (resolve, reject) => {
             try {
@@ -17,5 +17,3 @@ class WeatherService {
         });
     };
 };
-
-export default new WeatherService();

@@ -1,6 +1,6 @@
 {
   "name": "weather-ts-promise",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "main": "index.js",
   "repository": "https://github.com/joelvitorniino/weather-ts-promise.git",
   "author": "joelvitorniino <joelprofessor13@gmail.com>",
