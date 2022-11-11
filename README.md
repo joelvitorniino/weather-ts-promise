@@ -1,3 +1,9 @@
-# Template App TS
+# Weather TS Promise
 
-Template to make projects with typescript
+Module to nodejs request weather forecast.
+
+Example to install:
+
+```
+yarn add weather-ts-promise
+```
